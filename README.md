@@ -1,9 +1,9 @@
 # PPFN Static
 
-![GitHub repo size](https://img.shields.io/github/repo-size/poopoofartnut/ppfn)
-![GitHub stars](https://img.shields.io/github/stars/poopoofartnut/ppfn?style=social)
-![GitHub license](https://img.shields.io/github/license/poopoofartnut/ppfn)
-![Issues](https://img.shields.io/github/issues/poopoofartnut/ppfn)
+![GitHub repo size](https://img.shields.io/github/repo-size/ppfn-games/ppfn-static)
+![GitHub stars](https://img.shields.io/github/stars/ppfn-games/ppfn-static?style=social)
+![GitHub license](https://img.shields.io/github/license/ppfn-games/ppfn-static)
+![Issues](https://img.shields.io/github/issues/ppfn-games/ppfn-static)
 
 **PPFN Static** is a fast, lightweight, and easy-to-host HTML5 gaming site. This static version is designed for simple deployment on any static file host, such as GitHub Pages, with no backend or server-side code required.
 
